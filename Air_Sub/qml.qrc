@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Login.qml</file>
+        <file>ColorButton.qml</file>
+        <file>TextField.qml</file>
+        <file>TouchButton.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Sign.qml</file>
+        <file>Login.qml</file>
+        <file>TextField.qml</file>
+        <file>TouchButton.qml</file>
+        <file>images/delegate.png</file>
+        <file>images/Pipi.png</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/Chart - Google Docs.png</file>
+        <file>images/Configure.png</file>
+        <file>images/CrashPlan.png</file>
+        <file>images/History.png</file>
+        <file>images/Home.png</file>
+        <file>images/Jahshaka.png</file>
+        <file>images/Power - Shut Down.png</file>
+        <file>images/Inkscape.png</file>
+        <file>ClickImage.qml</file>
+        <file>Window_Chart.qml</file>
+        <file>Window_Diary.qml</file>
+        <file>Window_RequestQue.qml</file>
+        <file>Window_Setting.qml</file>
+        <file>Window_SubState.qml</file>
+        <file>Window_Main.qml</file>
+        <file>images/windmill.png</file>
+        <file>ColorButton.qml</file>
+        <file>QChart.js</file>
+        <file>QChart.qml</file>
+        <file>QChartGallery.js</file>
+        <file>TestQChart.qml</file>
+        <file>ColorButtonOther.qml</file>
+    </qresource>
+</RCC>
